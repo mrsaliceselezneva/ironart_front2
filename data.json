@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Maxim",
+        "age": 21,
+        "content": "Hello world"
+    },
+
+    {
+        "name": "Artyom",
+        "age": 22,
+        "content": "New text"
+    }
+]

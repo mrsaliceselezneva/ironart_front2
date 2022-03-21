@@ -31,8 +31,8 @@ export default function App() {
             path="/user"
             element={<User id={nextQuestion[0].number} />}
           />
-          <Route exact path="/admin" element={<Admin />} />
-          <Route exact path="/moder" element={<Moder />} />
+          <Route exact path="/f4j39p3admin" element={<Admin />} />
+          <Route exact path="/g5j490w1moder" element={<Moder />} />
         </Routes>
       </Router>
     </ThemeContext.Provider>
